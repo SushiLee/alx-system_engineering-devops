@@ -1,0 +1,2 @@
+#!/bin/bash
+file -k 0x0:SCHOOL /tmp/magic
