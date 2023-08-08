@@ -1,1 +1,1 @@
-Some shell redirection scripts
+Some shell redirection script
