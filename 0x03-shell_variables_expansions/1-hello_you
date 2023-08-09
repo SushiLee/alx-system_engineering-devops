@@ -1,2 +1,2 @@
 #!/bin/bash
-echo hello $me
+me=$(whoami); echo hello $me
